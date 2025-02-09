@@ -104,3 +104,12 @@ I have came accross many new thing in this journey,and I tried to compile all my
 3. Keras.md
 4. Jax.md
 5. MixedPrecision.md
+6. 
+
+
+
+## Disclaimer  
+
+This repository contains all the approaches I used in this competition. Some of the implementations are my own, while others are inspired by existing work from various sources. Any external contributions, references, or inspirations are acknowledged where applicable. If you believe proper credit is missing, please feel free to open an issue or reach out.  
+
+This repository is for learning and research purposes only.  
